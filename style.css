@@ -20,7 +20,7 @@ header nav ul li {
   clear: both;
 }
 
-#project-container, #aboutme {
+#project-container, #aboutme, #aipage  {
   margin: 0 auto; /* centers projects div */
   width: 90%; /* adds space on either side */
   max-width: 600px; /* keeps div from getting too wide */
@@ -33,14 +33,14 @@ header nav ul li {
   border-bottom: 1px solid rgb(0, 174, 255);
 }
 
-.project img, #aboutme img {
+.project img, #aboutme img, #aipage  img {
   width: 250px;
   float: left;
   margin-right: 10px;
   margin-bottom: 10px;
 }
 
-.project h2, #aboutme h2 {
+.project h2, #aboutme h2, #aipage h2 {
   font-size: 1.5em;
   margin-bottom: 10px;
 }
